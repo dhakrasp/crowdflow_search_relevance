@@ -1,0 +1,10 @@
+sklearn
+keras==2.2.5
+tensorflow==1.15.0
+nltk==3.2.5
+pandas==0.25.3
+numpy==1.17.3
+bs4==0.0.1
+matplotlib==3.1.1
+jupyter
+kaggle
